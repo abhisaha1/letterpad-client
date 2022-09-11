@@ -1,3 +1,5 @@
+## This theme has been archived in favour of  [letterpad/letterpad-client-2](https://github.com/letterpad/letterpad-client-2)
+
 ## Letterpad Client - Theme
 
 Demo: https://demo.letterpad.app
